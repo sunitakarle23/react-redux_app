@@ -1,0 +1,29 @@
+.product-list img{
+	height: 100px;
+	width: 100px;
+}
+.search-bar{
+	margin: 20px;
+	text-align: center;
+}
+
+.search-bar input {
+	width: 75%;
+}
+
+.product-item img {
+	max-width:  64px;
+}
+.details{
+	padding: 20px;
+	border: 2px solid #ccc;
+	margin: 0px 0px 5px 5px;
+}
+.list-group-item{
+	margin-bottom: 5px !important;
+	margin-left: 5px;
+	cursor: pointer;
+}
+.list-group-item:hover{
+	background-color: #eee;
+}
